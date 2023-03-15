@@ -8,7 +8,7 @@
 <p>
 <p align="center">
 <a href="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml">
-<img src="https://github.com/gxnas/OpenWrt-22.03/workflows/OpenWrt-22.03-X86-64/badge.svg" />
+    <img src="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml/badge.svg?style=flat" />
 </a>
 <p>
 

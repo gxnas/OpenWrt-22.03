@@ -8,7 +8,7 @@
 <p>
 <p align="center">
 <img src="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml/badge.svg">
-[![OpenWrt-22.03-X86-64](https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml/badge.svg)](https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml)
+[![codecov](https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml/badge.svg)](https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml)
 <p>
 
 

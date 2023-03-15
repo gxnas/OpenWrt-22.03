@@ -1,12 +1,5 @@
 <h1 align="center">OpenWrt 22.03 云编译</h1>
 <p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg">
-<p>
-<p align="center">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/gxnas/OpenWrt-22.03/total?style=for-the-badge">
-<img alt="GitHub" src="https://img.shields.io/github/license/gxnas/OpenWrt-22.03?style=for-the-badge">
-<p>
-<p align="center">
 <a href="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml">
     <img src="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml/badge.svg?style=flat" />
 </a>

@@ -7,9 +7,8 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/gxnas/OpenWrt-22.03?style=for-the-badge">
 <p>
 <p align="center">
-<img src="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml/badge.svg">
 <a href="https://github.com/gxnas/OpenWrt-22.03/actions/workflows/OpenWrt-22.03-X86-64.yml">
-    <img src="https://github.com/gxnas/OpenWrt-22.03/workflows/OpenWrt-22.03-X86-64/badge.svg?style=flat" />
+<img src="https://github.com/gxnas/OpenWrt-22.03/workflows/OpenWrt-22.03-X86-64/badge.svg?style=flat" />
 </a>
 <p>
 

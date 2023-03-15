@@ -103,8 +103,8 @@ jobs:
         rm -rf ./artifact/
         mkdir -p ./artifact/
         # mv openwrt/bin/targets/x86/64/*combined-efi.img* ./artifact/
-        mv openwrt/bin/targets/x86/64/*combined.img.gz ./artifact/OpenWrt-22.03-X64_$(date +%Y-%m%d-%H%M).img.gz
-        mv openwrt/bin/targets/x86/64/*combined-efi.img.gz ./artifact/OpenWrt-22.03-X64_$(date +%Y-%m%d-%H%M)-efi.img.gz
+        mv openwrt/bin/targets/x86/64/*combined.img ./artifact/OpenWrt-22.03-X64_$(date +%Y-%m%d-%H%M).img
+        mv openwrt/bin/targets/x86/64/*combined-efi.img ./artifact/OpenWrt-22.03-X64_$(date +%Y-%m%d-%H%M)-efi.img
         cd ./artifact/
         ls -Ahl
         gzip -d *.gz && exit 0
